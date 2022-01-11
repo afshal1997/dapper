@@ -1,0 +1,154 @@
+@media screen and (max-width: 1439px) and (min-width: 1025px) {
+    .builtMarketing {
+        font-size: 2.3rem;
+    }
+    a.bookingBtn {
+        font-size: 0.7rem !important;
+    }
+    .goDown {
+        bottom: 55px !important;
+    }
+    .whyChooseDapper::before {
+        max-height: 380px;
+        min-height: 380px;
+        left: -30px;
+        top: -30px;
+    }
+    .socialMediaLinks ul {
+        transform: translate(-50%, 20%);
+    }
+    .socialMediaLinks ul li a img {
+        max-width: 80%;
+    }
+
+    .builtMarketing h2 {
+        font-size: 1.4rem;
+        margin-bottom: 30px;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 1366px) and (min-width: 1000px){
+    .contactUsMainBanner,
+    .aboutUsMainBanner{
+        min-height: 80vh;
+    }
+}
+
+@media screen and (max-width: 1292px) and (min-width: 1025px) {
+    a.bookingBtn {
+        font-size: 0.5rem !important;
+    }
+    .verticallyCenter::before,
+    .whyChooseDapper::before {
+        display: none;
+    }
+    .builtMarketing {
+        font-size: 2rem;
+    }
+
+    .socialMediaLinks ul {
+        transform: translate(-50%, 20%);
+    }
+    .socialMediaLinks ul li a img {
+        max-width: 80%;
+    }
+}
+
+@media screen and (max-width: 1100px) and (min-width: 992px){
+    .builtMarketing h2{
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 991px){
+    .aboutUsMainBanner{
+        min-height: 100%;
+        text-align: center;
+    }
+    .whyChooseDapper,
+    .aboutUsGoDownBtn{
+        position: relative;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .verticallyCenter {
+        transform: translate(0%, -50%);
+        text-align: center;
+        margin: auto;
+        width: 70%;
+        right: 0;
+        left: 0;
+    }
+    .verticallyCenter .builtMarketing {
+        font-size: 2rem;
+    }
+    .verticallyCenter::before,
+    .whyChooseDapper::before,
+    .navbar-light .navbar-toggler {
+        display: none;
+    }
+
+    .verticallyCenter .col-lg-7 {
+        margin: auto;
+    }
+    a.bookingBtn {
+        font-size: 0.5rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .whyChooseDapper .builtMarketing {
+        margin-bottom: 15px;
+        font-size: 1.5rem;
+    }
+    .dapperIsABrandingFirm h2,
+    .whyChooseDapper,
+    .SortAboutUs,
+    .contactUs {
+        text-align: center !important;
+    }
+    .scrolled a.navbar-brand img {
+        max-width: 50%;
+    }
+    .goToTop {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 668px) {
+    .section01 {
+        height: 120vh !important;
+    }
+
+    .goDown {
+        bottom: 50px !important;
+    }
+
+    .builtMarketing h2 {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    a.navbar-brand img {
+        max-width: 60%;
+    }
+    .hambergur {
+        top: 40px;
+    }
+    .whyChooseDappercards {
+        padding-top: 10px;
+    }
+    .testimonials h2 {
+        font-size: 5rem;
+    }
+    .footerLinks ul li a {
+        font-size: 0.7rem;
+    }
+    .socialMediaLinks ul {
+        display: none;
+    }
+}

@@ -1,0 +1,137 @@
+/*.testimonialSlider .element {*/
+/*    height: 100%;*/
+/*    width: 100%;*/
+/*    background-color: transparent;*/
+/*    color: #fff;*/
+/*    border-radius: 5px;*/
+/*    display: inline-block;*/
+/*    margin: 0px 10px;*/
+/*    display: -webkit-box;*/
+/*    display: -ms-flexbox;*/
+/*    display: flex;*/
+/*    -webkit-box-pack: center;*/
+/*    -ms-flex-pack: center;*/
+/*    justify-content: center;*/
+/*    -webkit-box-align: center;*/
+/*    -ms-flex-align: center;*/
+/*    align-items: center;*/
+/*}*/
+/*.testimonialSlider .slick-disabled {*/
+/*    opacity: 0.5;*/
+/*    pointer-events: none;*/
+/*}*/
+/*.testimonialSlider .slick-prev {*/
+/*    position: absolute !important;*/
+/*    background: transparent;*/
+/*    border: none;*/
+/*    color: #fff;*/
+/*    left: 60% !important;*/
+/*    bottom: 75%;*/
+/*}*/
+/*.testimonialSlider .slick-next {*/
+/*    left: 35% !important;*/
+/*    margin: auto;*/
+/*    position: absolute !important;*/
+/*    bottom: 75% !important;*/
+/*    background: transparent;*/
+/*    border: none;*/
+/*    color: #fff;*/
+/*}*/
+/*.testimonialSlider .slick-next::after {*/
+/*    content: "\f30a";*/
+/*    font-family: "Font Awesome 5 Free";*/
+/*    font-weight: 900;*/
+/*    top: 3px;*/
+/*    position: absolute;*/
+/*    left: -28px;*/
+/*}*/
+/*.testimonialSlider .slick-prev::after {*/
+/*    content: "\f30b";*/
+/*    font-family: "Font Awesome 5 Free";*/
+/*    font-weight: 900;*/
+/*    margin-left: 10px;*/
+/*    top: 3px;*/
+/*    position: absolute;*/
+/*}*/
+
+.slick-slider .element {
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    color: #fff;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0px 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.slick-slider .slick-disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}
+.slick-slider .slick-prev {
+    position: absolute !important;
+    background: transparent;
+    border: none;
+    color: transparent;
+    right: -60% !important;
+    width: 100%;
+}
+.slick-slider .slick-next {
+    right: -60% !important;
+    position: absolute !important;
+    bottom: 0 !important;
+    background: transparent;
+    border: none;
+    color: transparent;
+    width: 100%;
+}
+.slick-slider .slick-next::after {
+    content: "\f30a NEXT";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    top: 3px;
+    position: absolute;
+    right: 100px;
+    color: #fff;
+}
+.slick-slider .slick-prev::after {
+    content: "PREV \f30b";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    top: 3px;
+    position: absolute;
+    right: 87px;
+    color: #fff;
+
+}
+
+@media screen and (max-width: 1366px) {
+    .slick-slider .slick-next,
+    .slick-slider .slick-prev {
+        right: -60% !important;
+    }
+    .slick-slider .slick-prev::after{
+            right: 0;
+    }
+    .slick-slider .slick-next::after{
+        right: 17px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .slick-slider .slick-next {
+        right: 0% !important;
+        bottom: -6% !important;
+    }
+    .slick-slider .slick-prev {
+        right: 0% !important;
+        bottom: -50px !important;
+    }
+}
