@@ -65,22 +65,22 @@ window.onscroll = function () {
     }
 }
 
-$(document).ready(function () {
+// $(document).ready(function () {
 
-    setTimeout(function () {
-        $('#ctn-preloader').addClass('loaded');
-        // Una vez haya terminado el preloader aparezca el scroll
-        $('body').removeClass('no-scroll-y');
+//     setTimeout(function () {
+//         $('#ctn-preloader').addClass('loaded');
+//         // Una vez haya terminado el preloader aparezca el scroll
+//         $('body').removeClass('no-scroll-y');
 
-        if ($('#ctn-preloader').hasClass('loaded')) {
-            // Es para que una vez que se haya ido el preloader se elimine toda la seccion preloader
-            $('#preloader').delay(1600).queue(function () {
-                $(this).remove();
-            });
-        }
-    }, 3000);
+//         if ($('#ctn-preloader').hasClass('loaded')) {
+//             // Es para que una vez que se haya ido el preloader se elimine toda la seccion preloader
+//             $('#preloader').delay(1600).queue(function () {
+//                 $(this).remove();
+//             });
+//         }
+//     }, 3000);
 
-});
+// });
 
 $('nav li a').filter(function () {
     return this.href === location.href;
