@@ -29,6 +29,26 @@
    <section class="socialMediaGraphics" id="socialMediaGraphics">
       <div class="container">
          <div class="row" data-aos="fade-right">
+            <div class="col-lg-6 my-4 position-relative">
+               <div data-aos="fade-down" class="count position-absolute">
+                  <h3>
+                     01
+                  </h3>
+               </div>
+               <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="2000">
+                  <div class="carousel-inner">
+                     <div class="carousel-item active">
+                        <img src="Assets/Images/illustration/logo-design-workplace-interior-3d-rendering.jpg" class="d-block w-100 m-auto" alt="alt">
+                     </div>
+                     <div class="carousel-item">
+                        <img src="Assets/Images/illustration/logodesign2.jpeg" class="d-block w-100 m-auto" alt="alt">
+                     </div>
+                     <div class="carousel-item">
+                        <img src="Assets/Images/illustration/logodesign3.jpeg" class="d-block w-100 m-auto" alt="alt">
+                     </div>
+                  </div>
+               </div>
+            </div>
             <div class="col-lg-6 m-auto">
                <div class="socialMediaGraphicsCard" data-aos="fade-top">
                   <h5>Service</h5>
@@ -38,50 +58,9 @@
                   </p>
                   <a class="getStarted" href="javascript:void(0)">Get Started</a>
                </div>
-
-            </div>
-            <div class="col-lg-6 my-4 position-relative">
-               <div data-aos="fade-down" class="count position-absolute">
-                  <h1>
-                     01
-                  </h1>
-               </div>
-               <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="2000">
-                  <div class="carousel-inner">
-                     <div class="carousel-item active">
-                        <img src="./Assets/Images/illustration/logo-design-workplace-interior-3d-rendering.jpg" class="d-block w-100 m-auto border border-5" alt="alt">
-                     </div>
-                     <div class="carousel-item">
-                        <img src="./Assets/Images/illustration/logodesign2.jpeg" class="d-block w-100 m-auto border border-5" alt="alt">
-                     </div>
-                     <div class="carousel-item">
-                        <img src="./Assets/Images/illustration/logodesign3.jpeg" class="d-block w-100 m-auto border border-5" alt="alt">
-                     </div>
-                  </div>
-               </div>
             </div>
          </div>
          <div class="row" data-aos="fade-left">
-            <div class="col-lg-6 my-4 position-relative">
-               <div data-aos="fade-down" class="count position-absolute">
-                  <h1>
-                     02
-                  </h1>
-               </div>
-               <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="2000">
-                  <div class="carousel-inner">
-                     <div class="carousel-item active">
-                        <img src="./Assets/Images/illustration/property-map.jpg" class="d-block w-100 m-auto border border-5" alt="alt">
-                     </div>
-                     <div class="carousel-item">
-                        <img src="./Assets/Images/illustration/property-map2.jpg" class="d-block w-100 m-auto border border-5" alt="alt">
-                     </div>
-                     <div class="carousel-item">
-                        <img src="./Assets/Images/illustration/property-map3.jpeg" class="d-block w-100 m-auto border border-5" alt="alt">
-                     </div>
-                  </div>
-               </div>
-            </div>
             <div class="col-lg-6 m-auto">
                <div class="socialMediaGraphicsCard" data-aos="fade-top">
                   <h5>Service</h5>
@@ -91,10 +70,49 @@
                   </p>
                   <a class="getStarted" href="javascript:void(0)">Get Started</a>
                </div>
-
+            </div>
+            <div class="col-lg-6 my-4 position-relative">
+               <div data-aos="fade-down" class="count position-absolute">
+                  <h3>
+                     02
+                  </h3>
+               </div>
+               <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="2000">
+                  <div class="carousel-inner">
+                     <div class="carousel-item active">
+                        <img src="Assets/Images/illustration/property-map.jpg" class="d-block w-100 m-auto" alt="alt">
+                     </div>
+                     <div class="carousel-item">
+                        <img src="Assets/Images/illustration/property-map2.jpg" class="d-block w-100 m-auto" alt="alt">
+                     </div>
+                     <div class="carousel-item">
+                        <img src="Assets/Images/illustration/property-map3.jpeg" class="d-block w-100 m-auto" alt="alt">
+                     </div>
+                  </div>
+               </div>
             </div>
          </div>
          <div class="row" data-aos="fade-right">
+            <div class="col-lg-6 my-4 position-relative">
+               <div data-aos="fade-down" class="count position-absolute">
+                  <h3>
+                     03
+                  </h3>
+               </div>
+               <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="2000">
+                  <div class="carousel-inner">
+                     <div class="carousel-item active">
+                        <img src="Assets/Images/illustration/logo-design-workplace-interior-3d-rendering.jpg" class="d-block w-100 m-auto" alt="alt">
+                     </div>
+                     <div class="carousel-item">
+                        <img src="Assets/Images/illustration/logodesign2.jpeg" class="d-block w-100 m-auto" alt="alt">
+                     </div>
+                     <div class="carousel-item">
+                        <img src="Assets/Images/illustration/logodesign3.jpeg" class="d-block w-100 m-auto" alt="alt">
+                     </div>
+                  </div>
+               </div>
+            </div>
             <div class="col-lg-6 m-auto">
                <div class="socialMediaGraphicsCard" data-aos="fade-top">
                   <h5>Service</h5>
@@ -104,29 +122,7 @@
                   </p>
                   <a class="getStarted" href="javascript:void(0)">Get Started</a>
                </div>
-
             </div>
-            <div class="col-lg-6 my-4 position-relative">
-               <div data-aos="fade-down" class="count position-absolute">
-                  <h1>
-                     03
-                  </h1>
-               </div>
-               <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="2000">
-                  <div class="carousel-inner">
-                     <div class="carousel-item active">
-                        <img src="./Assets/Images/illustration/logo-design-workplace-interior-3d-rendering.jpg" class="d-block w-100 m-auto border border-5" alt="alt">
-                     </div>
-                     <div class="carousel-item">
-                        <img src="./Assets/Images/illustration/logodesign2.jpeg" class="d-block w-100 m-auto border border-5" alt="alt">
-                     </div>
-                     <div class="carousel-item">
-                        <img src="./Assets/Images/illustration/logodesign3.jpeg" class="d-block w-100 m-auto border border-5" alt="alt">
-                     </div>
-                  </div>
-               </div>
-            </div>
-
          </div>
 
       </div>
