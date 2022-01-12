@@ -84,7 +84,7 @@
 
             </div>
          </div>
-         <div class="row" data-aos="fade-left">
+         <div class="row" data-aos="fade-right">
             <div class="col-lg-6 m-auto">
                <div class="socialMediaGraphicsCard" data-aos="fade-top">
                   <h5>Service</h5>
