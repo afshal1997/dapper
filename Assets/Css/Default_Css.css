@@ -276,3 +276,7 @@ body::-webkit-scrollbar-thumb:hover {
         font: bold 2em "Montserrat", sans-serif;
     }
 }
+
+.dropdown-item.active, .dropdown-item:active{
+    background-color: #a07604 !important;
+}

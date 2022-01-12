@@ -32,3 +32,26 @@ a.bookingBtn:hover{
 .dropdown-item:hover{
     background-color: #a07604 !important;
 }
+
+.getStarted {
+    border: 1px solid #a07604;
+    background: transparent;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 8px 15px;
+    color: #a07604;
+    font-size: 1rem;
+    font-weight: 600;
+    display: block;
+    text-align: center;
+    max-width: fit-content;
+    margin-bottom: 20px;
+    transition: 1s;
+}
+
+.getStarted:hover{
+    border: 1px solid transparent;
+    background: #a07604;
+    transition: 1s;
+    color: #fff;
+}

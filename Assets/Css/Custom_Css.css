@@ -664,6 +664,11 @@ h2.exploreMore {
     background: url("../Images/contantUs/contact.jpg");
 }
 
+.graphicDesignMainBanner{
+    background: url('../Images/graphicDesign/grapgicMainBg.jpg');
+}
+
+.graphicDesignMainBanner,
 .contactUsMainBanner,
 .aboutUsMainBanner {
     background-position: center center;
@@ -692,6 +697,7 @@ h2.exploreMore {
     -webkit-backdrop-filter: blur(10px);
 }
 
+.graphicDesignMainBanner h4,
 .contactUsMainBanner h4,
 .aboutUsMainBanner h4,
 .aboutUsGoDownBtn .card h4 {
@@ -925,6 +931,33 @@ h2.exploreMore {
 
 .formBg .form-check-input{
     background-color: #1f1f1f !important;
+}
+
+/* End */
+
+/* socialMediaGraphics */
+
+.socialMediaGraphics{
+    background-color: #222222;
+}
+
+.socialMediaGraphicsCard h5 {
+    color: #a07604;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+.socialMediaGraphicsCard h3 {
+    color: #fff;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.socialMediaGraphicsCard p {
+    color: #6c757d;
+    font-size: 14px;
+    font-weight: 600;
 }
 
 /* End */

@@ -25,25 +25,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="element element-2">
-                        <div class="row">
-                            <div class="col-lg-7">
-                                <h4>Dapper firm</h4>
-                                <div class="builtMarketing">
-                                    Built Marketing & <span>Branding</span>
-                                </div>
-                                <p>Dapper is a marketing and branding firm built with sweat, grit, faith and a strong education surrounding...</p>
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <a class="bookingBtn" href="javascript:void(0)">Consultation Booking <i class="fas fa-caret-right"></i></a>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <a class="bookingBtn" href="javascript:void(0)">Client Portal <i class="fas fa-caret-right"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
             <div class="col-lg-3">
@@ -312,7 +293,6 @@
                     <div class="element element-1">
                         <div class="col-lg-8 text-center m-auto">
                             <div class="testimonialSlide">
-                                <img src="Assets/Images/homePage/clientSlider/client01.png" alt="">
                                 <p class="text-muted mt-4"><span class="text-light"><b>LINSAY LOHAN -</b></span> Franc</p>
                                 <h5>
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -323,7 +303,6 @@
                     <div class="element element-2">
                         <div class="col-lg-8 text-center m-auto">
                             <div class="testimonialSlide">
-                                <img src="Assets/Images/homePage/clientSlider/client01.png" alt="">
                                 <p class="text-muted mt-4"><span class="text-light"><b>LINSAY LOHAN -</b></span> Franc</p>
                                 <h5>
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text when an unknown printer took a galley of type and scrambled it to make a type specimen book.
