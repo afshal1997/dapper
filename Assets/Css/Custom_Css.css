@@ -969,7 +969,7 @@ h2.exploreMore {
   font-weight: 600;
 }
 .illustration-carousal img {
-  height: 450px;
+  height: 60vh;
   filter: grayscale(0.5);
 }
 /* End */

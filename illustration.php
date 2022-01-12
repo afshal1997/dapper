@@ -28,7 +28,7 @@
 
    <section class="socialMediaGraphics" id="socialMediaGraphics">
       <div class="container">
-         <div class="row">
+         <div class="row" data-aos="fade-right">
             <div class="col-lg-6 m-auto">
                <div class="socialMediaGraphicsCard" data-aos="fade-top">
                   <h5>Service</h5>
@@ -41,7 +41,7 @@
 
             </div>
             <div class="col-lg-6 my-4">
-               <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="1000">
+               <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="2000">
                   <div class="carousel-inner">
                      <div class="carousel-item active">
                         <img src="./Assets/Images/illustration/logo-design-workplace-interior-3d-rendering.jpg" class="d-block w-100 m-auto border border-5" alt="alt">
@@ -56,9 +56,9 @@
                </div>
             </div>
          </div>
-         <div class="row">
+         <div class="row" data-aos="fade-left">
             <div class="col-lg-6 my-4">
-               <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="1000">
+               <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="2000">
                   <div class="carousel-inner">
                      <div class="carousel-item active">
                         <img src="./Assets/Images/illustration/property-map.jpg" class="d-block w-100 m-auto border border-5" alt="alt">
@@ -84,7 +84,7 @@
 
             </div>
          </div>
-         <div class="row">
+         <div class="row" data-aos="fade-left">
             <div class="col-lg-6 m-auto">
                <div class="socialMediaGraphicsCard" data-aos="fade-top">
                   <h5>Service</h5>
@@ -97,7 +97,7 @@
 
             </div>
             <div class="col-lg-6 my-4">
-               <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="1000">
+               <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="2000">
                   <div class="carousel-inner">
                      <div class="carousel-item active">
                         <img src="./Assets/Images/illustration/logo-design-workplace-interior-3d-rendering.jpg" class="d-block w-100 m-auto border border-5" alt="alt">
