@@ -969,7 +969,19 @@ h2.exploreMore {
   font-weight: 600;
 }
 .illustration-carousal img {
-  height: 60vh;
+  height: 50vh;
   filter: grayscale(0.5);
+}
+.count {
+  top: calc(45%);
+  padding: 5px 12px;
+  background-color: #000;
+  filter: grayscale(0.7);
+  border-radius: 100%;
+  z-index: 999;
+  left: -20px;
+}
+.h100{
+    height: 100vh;
 }
 /* End */

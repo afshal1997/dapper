@@ -40,7 +40,12 @@
                </div>
 
             </div>
-            <div class="col-lg-6 my-4">
+            <div class="col-lg-6 my-4 position-relative">
+               <div data-aos="fade-down"  class="count position-absolute">
+                  <h1>
+                     01
+                  </h1>
+               </div>
                <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="2000">
                   <div class="carousel-inner">
                      <div class="carousel-item active">
@@ -57,7 +62,12 @@
             </div>
          </div>
          <div class="row" data-aos="fade-left">
-            <div class="col-lg-6 my-4">
+            <div class="col-lg-6 my-4 position-relative">
+               <div data-aos="fade-down"  class="count position-absolute">
+                  <h1>
+                     02
+                  </h1>
+               </div>
                <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="2000">
                   <div class="carousel-inner">
                      <div class="carousel-item active">
@@ -96,7 +106,12 @@
                </div>
 
             </div>
-            <div class="col-lg-6 my-4">
+            <div class="col-lg-6 my-4 position-relative">
+               <div data-aos="fade-down"  class="count position-absolute">
+                  <h1>
+                     03
+                  </h1>
+               </div>
                <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade illustration-carousal" data-bs-ride="carousel" delay="2000">
                   <div class="carousel-inner">
                      <div class="carousel-item active">
