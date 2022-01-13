@@ -4,7 +4,7 @@
     <section class="contactUsMainBanner" id="contactUsMainBanner">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 mt-5" data-aos="fade-up">
+                <div class="col-lg-5 mt-5" data-aos="fade-up">
                     <h4>Contact Us</h4>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">

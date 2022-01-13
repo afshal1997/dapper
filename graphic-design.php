@@ -5,11 +5,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 mt-5" data-aos="fade-up">
-                    <h4>SERVICES</h4>
+                    <h4 class="text-warning">SERVICES</h4>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="index.php" class="text-warning">Home</a></li>
-                            <li class="breadcrumb-item active"><b>Graphic Design</b></li>
+                            <li class="breadcrumb-item active text-light"><b>Graphic Design</b></li>
                         </ol>
                     </nav>
                     <div class="builtMarketing">
