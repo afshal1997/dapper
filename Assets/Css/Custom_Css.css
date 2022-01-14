@@ -675,6 +675,16 @@ h2.exploreMore {
   background: url("../Images/brandDevelopmentMainBanner/brandDevelopmentMainBanner.jpg");
 }
 
+.designPrintMainBanner{
+  background: url('../Images/designPrint/designPrintMainBanner.jpg');
+}
+
+.promotionalItemsMainBanner{
+  background: url('../Images/promotional-Items/promotionalItemsMainBanner.jpg');
+}
+
+.promotionalItemsMainBanner,
+.designPrintMainBanner,
 .brandDevelopmentMainBanner,
 .graphicDesignMainBanner,
 .contactUsMainBanner,
@@ -980,7 +990,7 @@ h2.exploreMore {
   bottom: 0;
   background-color: #000;
   border-radius: 100%;
-  z-index: 999;
+  z-index: 1;
   left: -13px;
   width: 100%;
   height: 100%;
@@ -1001,4 +1011,9 @@ h2.exploreMore {
 .h100 {
   height: 100vh;
 }
+
+section.socialMediaGraphics img {
+  border: 2px solid #a07604;
+}
+
 /* End */

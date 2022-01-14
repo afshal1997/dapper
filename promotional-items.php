@@ -1,7 +1,7 @@
 <?php include 'CommonFile/Header.php'; ?>
 
 <main>
-    <section class="graphicDesignMainBanner" id="graphicDesignMainBanner">
+    <section class="promotionalItemsMainBanner" id="promotionalItemsMainBanner">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 mt-5" data-aos="fade-up">
@@ -9,7 +9,7 @@
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="index.php" class="text-warning">Home</a></li>
-                            <li class="breadcrumb-item active text-light"><b>Graphic Design</b></li>
+                            <li class="breadcrumb-item active text-light"><b>Promotional Items</b></li>
                         </ol>
                     </nav>
                     <div class="builtMarketing">
@@ -34,12 +34,12 @@
                             01
                         </h3>
                     </div>
-                    <img data-aos="fade-left" class="w-100" src="Assets/Images/graphicDesign/socialMediaGraphicsImg.jpg" alt="Assets/Images/graphicDesign/socialMediaGraphicsImg.jpg">
+                    <img data-aos="fade-left" class="w-100" src="Assets/Images/promotional-Items/promotionalItemsImg01.jpg" alt="Assets/Images/promotional-Items/promotionalItemsImg01.jpg">
                 </div>
                 <div class="col-lg-6 m-auto">
                     <div class="socialMediaGraphicsCard" data-aos="fade-right">
                         <h5>Services</h5>
-                        <h3>Social Media Graphics</h3>
+                        <h3>Pens</h3>
                         <p>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                         </p>
@@ -51,7 +51,7 @@
                 <div class="col-lg-6 m-auto">
                     <div class="socialMediaGraphicsCard" data-aos="fade-right">
                         <h5>Services</h5>
-                        <h3>Social Media Icons</h3>
+                        <h3>Cups</h3>
                         <p>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                         </p>
@@ -64,7 +64,7 @@
                             02
                         </h3>
                     </div>
-                    <img class="w-100" data-aos="fade-left" src="Assets/Images/graphicDesign/socialMediaIcons.jpg" alt="Assets/Images/graphicDesign/socialMediaIcons.jpg">
+                    <img class="w-100" data-aos="fade-left" src="Assets/Images/promotional-Items/promotionalItemsImg02.jpg" alt="Assets/Images/promotional-Items/promotionalItemsImg02.jpg">
                 </div>
             </div>
             <div class="row">
@@ -74,12 +74,12 @@
                             03
                         </h3>
                     </div>
-                    <img data-aos="fade-left" class="w-100" src="Assets/Images/graphicDesign/socialMediaPosts.jpg" alt="Assets/Images/graphicDesign/socialMediaPosts.jpg">
+                    <img data-aos="fade-left" class="w-100" src="Assets/Images/promotional-Items/promotionalItemsImg06.jpg" alt="Assets/Images/promotional-Items/promotionalItemsImg06.jpg">
                 </div>
                 <div class="col-lg-6 m-auto">
                     <div class="socialMediaGraphicsCard" data-aos="fade-right">
                         <h5>Services</h5>
-                        <h3>Social Media Posts</h3>
+                        <h3>T-shirt</h3>
                         <p>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                         </p>
@@ -91,7 +91,7 @@
                 <div class="col-lg-6 m-auto">
                     <div class="socialMediaGraphicsCard" data-aos="fade-right">
                         <h5>Services</h5>
-                        <h3>Digital Flyers</h3>
+                        <h3>Water Bottles</h3>
                         <p>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                         </p>
@@ -104,7 +104,7 @@
                             04
                         </h3>
                     </div>
-                    <img class="w-100" data-aos="fade-left" src="Assets/Images/graphicDesign/digitalFlyers.jpg" alt="Assets/Images/graphicDesign/digitalFlyers.jpg">
+                    <img class="w-100" data-aos="fade-left" src="Assets/Images/promotional-Items/promotionalItemsImg03.jpg" alt="Assets/Images/promotional-Items/promotionalItemsImg03.jpg">
                 </div>
             </div>
             <div class="row">
@@ -114,12 +114,12 @@
                             05
                         </h3>
                     </div>
-                    <img data-aos="fade-left" class="w-100" src="Assets/Images/graphicDesign/customGiftCards.jpg" alt="Assets/Images/graphicDesign/customGiftCards.jpg">
+                    <img data-aos="fade-left" class="w-100" src="Assets/Images/promotional-Items/promotionalItemsImg04.jpg" alt="Assets/Images/promotional-Items/promotionalItemsImg04.jpg">
                 </div>
                 <div class="col-lg-6 m-auto">
                     <div class="socialMediaGraphicsCard" data-aos="fade-right">
                         <h5>Services</h5>
-                        <h3>Custom Gift Cards</h3>
+                        <h3>Mugs</h3>
                         <p>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                         </p>
@@ -131,7 +131,7 @@
                 <div class="col-lg-6 m-auto">
                     <div class="socialMediaGraphicsCard" data-aos="fade-right">
                         <h5>Services</h5>
-                        <h3>Email Design</h3>
+                        <h3>Stickers</h3>
                         <p>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                         </p>
@@ -144,7 +144,7 @@
                             06
                         </h3>
                     </div>
-                    <img class="w-100" data-aos="fade-left" src="Assets/Images/graphicDesign/emailDesign.jpg" alt="Assets/Images/graphicDesign/emailDesign.jpg">
+                    <img class="w-100" data-aos="fade-left" src="Assets/Images/promotional-Items/promotionalItemsImg05.jpg" alt="Assets/Images/promotional-Items/promotionalItemsImg05.jpg">
                 </div>
             </div>
             <div class="row">
@@ -154,37 +154,17 @@
                             07
                         </h3>
                     </div>
-                    <img class="w-100" data-aos="fade-left" src="Assets/Images/graphicDesign/mockUps.jpg" alt="">
+                    <img data-aos="fade-left" class="w-100" src="Assets/Images/promotional-Items/promotionalItemsImg07.jpg" alt="Assets/Images/promotional-Items/promotionalItemsImg07.jpg">
                 </div>
                 <div class="col-lg-6 m-auto">
                     <div class="socialMediaGraphicsCard" data-aos="fade-right">
                         <h5>Services</h5>
-                        <h3>Mock Ups</h3>
+                        <h3>Phone Cases</h3>
                         <p>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                         </p>
                         <a class="getStarted" href="javascript:void(0)">Get Started</a>
                     </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 m-auto">
-                    <div class="socialMediaGraphicsCard" data-aos="fade-right">
-                        <h5>Services</h5>
-                        <h3>QR Codes</h3>
-                        <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                        </p>
-                        <a class="getStarted" href="javascript:void(0)">Get Started</a>
-                    </div>
-                </div>
-                <div class="col-lg-6 mb-4 position-relative">
-                    <div data-aos="fade-down" class="count position-absolute">
-                        <h3>
-                            08
-                        </h3>
-                    </div>
-                    <img class="w-100" data-aos="fade-left" src="Assets/Images/graphicDesign/qrCode.jpg" alt="Assets/Images/graphicDesign/qrCode.jpg">
                 </div>
             </div>
         </div>

@@ -28,7 +28,12 @@
     <section class="socialMediaGraphics" id="socialMediaGraphics">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 mb-4">
+                <div class="col-lg-6 mb-4 position-relative">
+                    <div data-aos="fade-down" class="count position-absolute">
+                        <h3>
+                            01
+                        </h3>
+                    </div>
                     <img data-aos="fade-left" class="w-100" src="Assets/Images/brandDevelopmentMainBanner/brandDevelopmentImg03.jpg" alt="Assets/Images/brandDevelopmentMainBanner/brandDevelopmentImg03.jpg">
                 </div>
                 <div class="col-lg-6 m-auto">
@@ -53,12 +58,22 @@
                         <a class="getStarted" href="javascript:void(0)">Get Started</a>
                     </div>
                 </div>
-                <div class="col-lg-6 mb-4">
+                <div class="col-lg-6 mb-4 position-relative">
+                    <div data-aos="fade-down" class="count position-absolute">
+                        <h3>
+                            02
+                        </h3>
+                    </div>
                     <img class="w-100" data-aos="fade-left" src="Assets/Images/brandDevelopmentMainBanner/brandDevelopmentImg04.jpg" alt="Assets/Images/brandDevelopmentMainBanner/brandDevelopmentImg04.jpg">
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 mb-4">
+                <div class="col-lg-6 mb-4 position-relative">
+                    <div data-aos="fade-down" class="count position-absolute">
+                        <h3>
+                            03
+                        </h3>
+                    </div>
                     <img data-aos="fade-left" class="w-100" src="Assets/Images/brandDevelopmentMainBanner/brandDevelopmentImg02.jpg" alt="Assets/Images/brandDevelopmentMainBanner/brandDevelopmentImg02.jpg">
                 </div>
                 <div class="col-lg-6 m-auto">
@@ -83,7 +98,12 @@
                         <a class="getStarted" href="javascript:void(0)">Get Started</a>
                     </div>
                 </div>
-                <div class="col-lg-6 mb-4">
+                <div class="col-lg-6 mb-4 position-relative">
+                    <div data-aos="fade-down" class="count position-absolute">
+                        <h3>
+                            04
+                        </h3>
+                    </div>
                     <img class="w-100" data-aos="fade-left" src="Assets/Images/graphicDesign/digitalFlyers.jpg" alt="Assets/Images/graphicDesign/digitalFlyers.jpg">
                 </div>
             </div>
