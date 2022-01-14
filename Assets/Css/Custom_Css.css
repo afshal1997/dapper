@@ -670,6 +670,12 @@ h2.exploreMore {
 .illustration-banner {
   background: url("../Images/illustration/laptop-showing-typesetting-software-graphic-designer-workspace.jpg");
 }
+
+.brandDevelopmentMainBanner {
+  background: url("../Images/brandDevelopmentMainBanner/brandDevelopmentMainBanner.jpg");
+}
+
+.brandDevelopmentMainBanner,
 .graphicDesignMainBanner,
 .contactUsMainBanner,
 .aboutUsMainBanner,

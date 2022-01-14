@@ -55,7 +55,7 @@
                 <ul class="dropdown-menu bg-dark pe-0 ps-0" aria-labelledby="dropdownMenuButton1">
                   <li class="nav-item"><a class="dropdown-item nav-link" href="graphic-design.php">Graphic Design</a></li>
                   <li class="nav-item"><a class="dropdown-item nav-link" href="illustration.php">Illustration</a></li>
-                  <li class="nav-item"><a class="dropdown-item nav-link" href="javascript:void(0)">Brand Development</a></li>
+                  <li class="nav-item"><a class="dropdown-item nav-link" href="brand-development.php">Brand Development</a></li>
                   <li class="nav-item"><a class="dropdown-item nav-link" href="javascript:void(0)">Design for Print</a></li>
                   <li class="nav-item"><a class="dropdown-item nav-link" href="javascript:void(0)">Promotional Items</a></li>
                 </ul>
