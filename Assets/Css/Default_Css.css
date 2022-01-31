@@ -58,7 +58,7 @@ ul {
 }
 
 .fixed-top {
-    z-index: 2 !important;
+    z-index: 999 !important;
 }
 
 li.nav-item {

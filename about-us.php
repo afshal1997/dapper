@@ -27,12 +27,12 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <h4><b>Mission</b></h4>
-                                <p>To develop brand strategy and brand collateral, which positively impacts revenue and perceived value.</p>
+                                <p>To help businesses turn an idea into a brand with impact.</p>
                             </div>
                             <div class="col-lg-6 m-auto">
                                 <h4><b>Vision</b></h4>
                                 <p>
-                                    Collaborating with property management firms to give an upgraded and data-driven experience that favourably influences performance metrics.
+                                    Our vision is to grow with our clients. As one succeeds, so should the other. We hope to be there for the wins, the losses, and the triumphs. When we say partners, we mean it.
                                 </p>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <h6 class="card-title text-light"><b>Build Community</b></h6>
                             </div>
                             <p class="card-text text-muted">
-                                Fostering human relationships and establishing infrastructures to enable these connections to happen.
+                                Fostering human relationships and establishing infrastructures to enable honest and empowering connections to happen.
                             </p>
                         </div>
                     </div>
@@ -69,7 +69,7 @@
                                 <h6 class="card-title text-light"><b>Act Humanely</b></h6>
                             </div>
                             <p class="card-text text-muted">
-                                Embracing ethical ideals that promote reverence among employees, customers and other businesses.
+                                Embracing ethical ideals that promote a deep sense of understanding and patience for our employees, clients, and other businesses.
                             </p>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
                                 <h6 class="card-title text-light"><b>Give Generously</b></h6>
                             </div>
                             <p class="card-text text-muted">
-                                By injecting empathy and generosity, we are able to provide a priceless gift of our time and skills.
+                                Injecting empathy and generosity into every vein of our business. At Dapper, our success is determined by our ability to help others succeed.
                             </p>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                                 <h6 class="card-title text-light"><b>Create Passionately</b></h6>
                             </div>
                             <p class="card-text text-muted">
-                                A powerful motivation for learning that gives rise to creativity, innovation and pinpoint precision.
+                                Creating with a passion is a prerequisite for any Dapper team member. We do what we do because we love what we do.
                             </p>
                         </div>
                     </div>
@@ -108,7 +108,7 @@
                                 <h6 class="card-title text-light"><b>Fail Fearlessly</b></h6>
                             </div>
                             <p class="card-text text-muted">
-                                We value great work and put accuracy first, but it doesn't imply there's no space for error.
+                                Failing without fear is our secret to success. Missed opportunities and mistakes are looked at through the lens of opportunity and used to make us better in the end.
                             </p>
                         </div>
                     </div>
@@ -131,7 +131,7 @@
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    We accomplish long-term transformation by producing audience-centric, beneficial outcomes for our customers.
+                                    We accomplish long-term brand transformations by producing customer-centric, deliverables for our clients.
                                 </div>
                             </div>
                         </div>
@@ -143,8 +143,7 @@
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    The remarkable brand battle is won by one thing and one thing alone– brand devotion. We prioritize our clients and make certain that your 
-                                    vision and goals are always in sync with ours.
+                                    The remarkable brand battle is won by one thing and one thing alone– brand devotion. We prioritize our clients and make certain that your vision and goals are at the forefront of every decision we make.
                                 </div>
                             </div>
                         </div>
@@ -156,9 +155,7 @@
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    To be the best, you must endeavor to understand the needs, values, beliefs, and culture of your customers. You must be believable, inspire folks, 
-                                    establish emotional relationships, and communicate a message.
-                                    Dapper strives to create one-of-a-kind, intriguing brand experience. We will always remain a tap away from our clients, no matter how successful we become.
+                                    Dapper strives to create one-of-a-kind, intriguing brand experiences. We will always remain a tap away from our clients, no matter how successful we become. Being the best begins with understanding the needs, values, beliefs, and culture of our clients and their audience. The businesses who learn the most, are those most willing to listen. The hard work is in the research and that is where we always start.
                                 </div>
                             </div>
                         </div>
@@ -170,8 +167,7 @@
                             </h2>
                             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Dapper is a branding firm that provides strategy to assist with brand perception, perceived value, and high impact visuals, in line with the overall company mission, 
-                                    and we support clients through the development and construction of all brand collateral. 
+                                    Dapper is a branding firm that provides strategies to assist with brand perception, perceived value, and high-impact visuals. We support clients through the development and construction of all brand collateral.
                                 </div>
                             </div>
                         </div>
@@ -181,8 +177,8 @@
                     <div class="targetCustomer">
                         <h1>Our Specialty</h1>
                         <p>
-                             We are a B2B branding agency that focuses on community and property managers. We specialise in providing branding and creative design services to companies 
-                             affiliated with student housing complexes, resulting in enhanced and simplified designs that result in brand growth.
+                            We are a B2B branding agency that focuses on community and property managers. We specialise in providing branding and creative design services to companies
+                            affiliated with student housing complexes, resulting in enhanced and simplified designs that result in brand growth.
                         </p>
                     </div>
                 </div>
@@ -190,89 +186,7 @@
         </div>
     </section>
 
-    <section id="section02" class="section02">
-        <div class="container">
-            <div class="whyChooseDapper">
-                <div class="row">
-                    <div class="col-lg-1"></div>
-                    <div class="col-lg-5" data-aos="fade-right">
-                        <h4>WHY CHOOSE Dapper?</h4>
-                        <div class="builtMarketing">
-                            Mission-Driven <br> <span>Branding Agency </span>
-                        </div>
-                        <p>
-                            Dapper is a sanctuary where brands are molded, reinterpreted, and elevated. Improve the value of your company by creating brand-aligned employee and customer experiences. 
-                            Our process-driven team evaluates every project with a fresh perspective to produce the most appealing solutions for our partners, whether it's a new brand identity, 
-                            marketing campaign, or interactive strategy. We invite you to collaborate with us and let our team provide the edge you need to further your cause.
-                        </p>
-                        <div class="row">
-                            <div class="col-lg-3"></div>
-                            <div class="col-lg-4">
-                                <a class="bookingBtn" href="javascript:void(0)">JOIN WITH US <i class="fas fa-caret-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6" data-aos="fade-left">
-                        <div class="row m-auto whyChooseDappercards">
-                        <h6 class="text-light">We are optimistic, enterprising, and restless whole-brain thinkers who value cooperation and are excited by what we can do in partnership with our clients.</h6>
-                            <div class="col-lg-6">
-                                <div class="card border-0 bg-transparent">
-                                    <div class="card-body">
-                                        <div class="card-title">
-                                            <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon01.png" alt="Assets/Images/homePage/icons/icon01.png">
-                                            <h6 class="card-title text-light"><b>Burning With Passion</b></h6>
-                                        </div>
-                                        <p class="card-text">
-                                            Our passion for what we do and how we do it empowers us to build brands people believe in.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="card border-0 bg-transparent">
-                                    <div class="card-body">
-                                        <div class="card-title">
-                                            <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon02.png" alt="Assets/Images/homePage/icons/icon02.png">
-                                            <h6 class="card-title text-light"><b>Run By Professionals</b></h6>
-                                        </div>
-                                        <p class="card-text">
-                                            From the moment you associate with Dapper, you will find nothing but unrivaled professionalism.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="card border-0 bg-transparent">
-                                    <div class="card-body">
-                                        <div class="card-title">
-                                            <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon03.png" alt="Assets/Images/homePage/icons/icon03.png">
-                                            <h6 class="card-title text-light"><b>Capturing Brand Essence</b></h6>
-                                        </div>
-                                        <p class="card-text">
-                                            We don’t make anything up; we just capture the essence that defines your brand.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="card border-0 bg-transparent">
-                                    <div class="card-body">
-                                        <div class="card-title">
-                                            <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon04.png" alt="Assets/Images/homePage/icons/icon04.png">
-                                            <h6 class="card-title text-light"><b>Reforge Brand Perception</b></h6>
-                                        </div>
-                                        <p class="card-text">
-                                            A well-planned digital strategy that fosters high-value brand loyalty and affinity between you and your customers.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include 'CommonFile/whyChooseDapper.php'; ?>
 
     <section id="section05" class="section05">
         <div class="col-lg-3 text-center m-auto">

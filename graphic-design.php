@@ -13,7 +13,7 @@
                         </ol>
                     </nav>
                     <div class="builtMarketing">
-                        <h2>Lorem Ipsum is simply dummy text of the <span>printing.</span></h2>
+                        <h2>Fabricate an indelible brand with scintillating <span>graphics</span></h2>
                     </div>
                 </div>
             </div>
@@ -38,10 +38,10 @@
                 </div>
                 <div class="col-lg-6 m-auto">
                     <div class="socialMediaGraphicsCard" data-aos="fade-right">
-                        <h5>Services</h5>
                         <h3>Social Media Graphics</h3>
+                        <h5>Visuals that fascinate</h5>
                         <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                            Regardless of how promising your social media marketing strategies are, you can't meet the objectives you have set for your business without excellent graphics. Dapper’s customized graphics are creative, unique, and engaging. Our designers create noteworthy and eye-catching illustrations to demonstrate your brand through social media pictures effectively.
                         </p>
                         <?php include 'CommonFile/GetStarted.php'; ?>
                     </div>
@@ -208,7 +208,7 @@
                     <div class="col-lg-7">
                         <div class="dapperIsABrandingFirm">
                             <h6>
-                                <span>Dapper is a branding firm</span> that provides strategy to assist with brand perception, perceived value and high impact visuals, in line with the overall company mission, 
+                                <span>Dapper is a branding firm</span> that provides strategy to assist with brand perception, perceived value and high impact visuals, in line with the overall company mission,
                                 and we support clients through the development and construction of all brand collateral.
                             </h6>
                             <p class="text-muted mt-4"><span class="text-light"><b>Micah Lockhart -</b></span> FOUNDER OF DAPPER BRANDING AND MARKETING FIRM</p>

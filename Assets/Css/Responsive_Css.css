@@ -77,13 +77,13 @@
         display: flex;
         flex-direction: column-reverse;
     }
-    .getStarted{
+    .getStarted {
         margin: auto;
     }
-    .illustration-carousal img{
+    .illustration-carousal img {
         max-height: 180px;
     }
-    .count{
+    .count {
         top: 100%;
         bottom: 0;
         left: 0;
@@ -91,6 +91,20 @@
     }
     .socialMediaGraphicsCard {
         margin-top: 20px;
+    }
+
+    .socialMediaLinks ul {
+        display: none;
+    }
+
+    .promotionalItemsMainBanner,
+    .designPrintMainBanner,
+    .brandDevelopmentMainBanner,
+    .graphicDesignMainBanner,
+    .contactUsMainBanner,
+    .aboutUsMainBanner,
+    .illustration-banner{
+        min-height: 100%;
     }
 }
 
@@ -168,8 +182,5 @@
     }
     .footerLinks ul li a {
         font-size: 0.7rem;
-    }
-    .socialMediaLinks ul {
-        display: none;
     }
 }

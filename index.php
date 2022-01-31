@@ -3,17 +3,19 @@
 <main>
     <section id="section01" class="section01">
         <div class="container">
-        <?php include 'CommonFile/main_Banner_Socialmedia.php'; ?>
+            <?php include 'CommonFile/main_Banner_Socialmedia.php'; ?>
             <div class="verticallyCenter">
                 <div class="slick-slider">
                     <div class="element element-1">
                         <div class="row">
                             <div class="col-lg-7" data-aos="fade-up">
-                                <h4>Helping Property Management</h4>
+                                <h4>Helping</h4>
                                 <div class="builtMarketing">
-                                    Firms Find Their<span> Mojo</span>
+                                    Firms Find Their <span> Unique Identity</span>
                                 </div>
-                                <p>Dapper is a marketing and branding firm built with sweat, grit, faith and a strong education surrounding...</p>
+                                <p>
+                                    Dapper is your all-in-one branding department that manages itself. We are super creative, incredibly persistent, and ridiculously persuasive.
+                                </p>
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <a class="bookingBtn" href="javascript:void(0)">Consultation Booking <i class="fas fa-caret-right"></i></a>
@@ -35,89 +37,7 @@
         </div>
     </section>
 
-    <section id="section02" class="section02">
-        <div class="container">
-            <div class="whyChooseDapper">
-                <div class="row">
-                    <div class="col-lg-1"></div>
-                    <div class="col-lg-5" data-aos="fade-right">
-                        <h4>WHY CHOOSE Dapper?</h4>
-                        <div class="builtMarketing">
-                            Mission-Driven <br> <span>Branding Agency </span>
-                        </div>
-                        <p>
-                            Dapper is a sanctuary where brands are molded, reinterpreted, and elevated. Improve the value of your company by creating brand-aligned employee and customer experiences. 
-                            Our process-driven team evaluates every project with a fresh perspective to produce the most appealing solutions for our partners, whether it's a new brand identity, 
-                            marketing campaign, or interactive strategy. We invite you to collaborate with us and let our team provide the edge you need to further your cause.
-                        </p>
-                        <div class="row">
-                            <div class="col-lg-3"></div>
-                            <div class="col-lg-4">
-                                <a class="bookingBtn" href="javascript:void(0)">JOIN WITH US <i class="fas fa-caret-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6" data-aos="fade-left">
-                        <div class="row m-auto whyChooseDappercards">
-                        <h6 class="text-light">We are optimistic, enterprising, and restless whole-brain thinkers who value cooperation and are excited by what we can do in partnership with our clients.</h6>
-                            <div class="col-lg-6">
-                                <div class="card border-0 bg-transparent">
-                                    <div class="card-body">
-                                        <div class="card-title">
-                                            <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon01.png" alt="Assets/Images/homePage/icons/icon01.png">
-                                            <h6 class="card-title text-light"><b>Burning With Passion</b></h6>
-                                        </div>
-                                        <p class="card-text">
-                                            Our passion for what we do and how we do it empowers us to build brands people believe in.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="card border-0 bg-transparent">
-                                    <div class="card-body">
-                                        <div class="card-title">
-                                            <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon02.png" alt="Assets/Images/homePage/icons/icon02.png">
-                                            <h6 class="card-title text-light"><b>Run By Professionals</b></h6>
-                                        </div>
-                                        <p class="card-text">
-                                            From the moment you associate with Dapper, you will find nothing but unrivaled professionalism.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="card border-0 bg-transparent">
-                                    <div class="card-body">
-                                        <div class="card-title">
-                                            <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon03.png" alt="Assets/Images/homePage/icons/icon03.png">
-                                            <h6 class="card-title text-light"><b>Capturing Brand Essence</b></h6>
-                                        </div>
-                                        <p class="card-text">
-                                            We don’t make anything up; we just capture the essence that defines your brand.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="card border-0 bg-transparent">
-                                    <div class="card-body">
-                                        <div class="card-title">
-                                            <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon04.png" alt="Assets/Images/homePage/icons/icon04.png">
-                                            <h6 class="card-title text-light"><b>Reforge Brand Perception</b></h6>
-                                        </div>
-                                        <p class="card-text">
-                                            A well-planned digital strategy that fosters high-value brand loyalty and affinity between you and your customers.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include 'CommonFile/whyChooseDapper.php'; ?>
 
     <section id="section03" class="section03">
         <div class="container">
@@ -134,7 +54,7 @@
                                 <h6 class="card-title text-light"><b>Graphic Design</b></h6>
                             </div>
                             <p class="card-text text-muted">
-                                Lorem ipsum dolor sit amet conetuer delgado diam nonummy.
+                                Fabricate an indelible brand with scintillating graphics
                             </p>
                             <div class="col-lg-8 m-auto mt-5">
                                 <a class="bookingBtn" href="javascript:void(0)">READ MORE <i class="fas fa-caret-right"></i></a>
@@ -150,7 +70,7 @@
                                 <h6 class="card-title text-light"><b>Illustration</b></h6>
                             </div>
                             <p class="card-text text-muted">
-                                Lorem ipsum dolor sit amet conetuer delgado diam nonummy.
+                                Magnify Your Brand’s Engagement Through Innovative, Intuitive, And Aesthetically Pleasing Illustrations.
                             </p>
                             <div class="col-lg-8 m-auto mt-5">
                                 <a class="bookingBtn" href="javascript:void(0)">READ MORE <i class="fas fa-caret-right"></i></a>
@@ -166,7 +86,7 @@
                                 <h6 class="card-title text-light"><b>Brand</b></h6>
                             </div>
                             <p class="card-text text-muted">
-                                Lorem ipsum dolor sit amet conetuer delgado diam nonummy.
+                                Branding that truly reflects who you are
                             </p>
                             <div class="col-lg-8 m-auto mt-5">
                                 <a class="bookingBtn" href="javascript:void(0)">READ MORE <i class="fas fa-caret-right"></i></a>
@@ -182,7 +102,7 @@
                                 <h6 class="card-title text-light"><b>Design for Print</b></h6>
                             </div>
                             <p class="card-text text-muted">
-                                Lorem ipsum dolor sit amet conetuer delgado diam nonummy.
+                                Pique your target audience's interest with eye-catching, compelling prints
                             </p>
                             <div class="col-lg-8 m-auto mt-5">
                                 <a class="bookingBtn" href="javascript:void(0)">READ MORE <i class="fas fa-caret-right"></i></a>
@@ -198,7 +118,7 @@
                                 <h6 class="card-title text-light"><b>Promotional Items</b></h6>
                             </div>
                             <p class="card-text text-muted">
-                                Lorem ipsum dolor sit amet conetuer delgado diam nonummy.
+                                Establish a long-term connection and score big with our creative solutions to gratify your customers.
                             </p>
                             <div class="col-lg-8 m-auto mt-5">
                                 <a class="bookingBtn" href="javascript:void(0)">READ MORE <i class="fas fa-caret-right"></i></a>
@@ -221,16 +141,15 @@
                     <div class="col-lg-4 text-end text-light">
                         <div class="dapperIsABrandingFirm">
                             <h2>What We Do?</h2>
-                            <h2><b>Marketing & Branding</b></h2>
+                            <h2><b>Branding & Illustration</b></h2>
                         </div>
                     </div>
                     <div class="col-lg-7">
                         <div class="dapperIsABrandingFirm">
                             <h6>
-                                <span>Dapper is a branding firm</span> that provides strategy to assist with brand perception, perceived value and high impact visuals, in line with the overall company mission, 
-                                and we support clients through the development and construction of all brand collateral.
+                                <span>Dapper is a branding firm</span> that provides strategies to assist with brand perception, perceived value, and high-impact visuals. We support clients through the development and construction of all brand collateral.
                             </h6>
-                            <p class="text-muted mt-4"><span class="text-light"><b>Micah Lockhart -</b></span> FOUNDER OF DAPPER BRANDING AND MARKETING FIRM</p>
+                            <p class="text-muted mt-4"><span class="text-light"><b>MICAH LOCKHART -</b></span> FOUNDER OF DAPPER BRANDING AND MARKETING FIRM</p>
                         </div>
                     </div>
                 </div>
@@ -243,7 +162,7 @@
                             <div class="col-lg-8 m-auto">
                                 <h5 class="card-title text-light"><b>Mission</b></h5>
                                 <p class="text-muted">
-                                    To develop brand strategy and brand collateral, which positively impacts revenue and perceived value.
+                                    To help businesses turn an idea into a brand with impact.
                                 </p>
                             </div>
                         </div>
@@ -256,7 +175,7 @@
                             <div class="col-lg-8 m-auto">
                                 <h5 class="card-title text-light"><b>Vision</b></h5>
                                 <p class="text-muted">
-                                    Collaborating with property management firms to give an upgraded and data-driven experience that favourably influences performance metrics.
+                                    Our vision is to grow with our clients. As one succeeds, so should the other. We hope to be there for the wins, the losses, and the triumphs. When we say partners, we mean it.
                                 </p>
                             </div>
                         </div>

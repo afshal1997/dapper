@@ -2,9 +2,21 @@
 
 <main>
     <section class="contactUsMainBanner" id="contactUsMainBanner">
+        <div class="socialMediaLinks contactUsLinks">
+            <div class="contactInformation">
+                <ul>
+                    <li class="position-relative">
+                        <a href="mailto:BrandedByDapper@gmail.com">BrandedByDapper@gmail.com</a>
+                    </li>
+                    <li class="position-relative mb-0">
+                        <a href="tel:+1234 5678910">+1234 5678910</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 mt-5" data-aos="fade-up">
+                <div class="col-lg-6 mt-5" data-aos="fade-up">
                     <h4>Contact Us</h4>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
@@ -13,38 +25,7 @@
                         </ol>
                     </nav>
                     <div class="builtMarketing">
-                        <h2> WE’RE EAGER TO HELP YOU WITH YOUR <span>QUERIES</span></h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="aboutUsGoDownBtn">
-            <div class="row">
-                <div class="col-lg-4 m-auto">
-                </div>
-                <div class="col-lg-8 m-auto">
-                    <div class="card p-4">
-                        <div class="row">
-                            <div class="col-lg-6 m-auto">
-                                <h4><b>Contact information</b></h4>
-                                <p>Whether you're looking for a custom web design or need suggestions for logo ideas, <br> feel free to contact us.</p>
-                            </div>
-                            <div class="col-lg-6 m-auto">
-                                <div class="contactInformation">
-                                    <ul>
-                                        <li class="position-relative">
-                                            <b>Address :</b> <a href="javascript:void(0)">Lorem Ipsum is simply dummy text</a>
-                                        </li>
-                                        <li class="position-relative">
-                                            <b>Email :</b> <a href="mailto:BrandedByDapper@gmail.com">BrandedByDapper@gmail.com</a>
-                                        </li>
-                                        <li class="position-relative mb-0">
-                                            <b>Phone :</b> <a href="tel:+1234 5678910">+1234 5678910</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+                        <h2>Let’s Chat! Ask a question below or tell us more about how Dapper can <span>help your business.</span></h2>
                     </div>
                 </div>
             </div>
@@ -53,6 +34,22 @@
 
     <section class="contactUsForm">
         <div class="container">
+            <div class="aboutUsGoDownBtn bg-transparent position-relative mb-4">
+                <div class="row">
+                    <div class="col-lg-12 text-center m-auto">
+                        <div class="card p-4 bg-transparent border-0">
+                            <div class="row">
+                                <div class="col-lg-6 m-auto">
+                                    <h4><b>Contact information</b></h4>
+                                    <p>
+                                        Whether you're looking for a custom web design, a brand development plan, or just need suggestions for logo ideas, feel free to contact us.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="col-lg-6 m-auto">
                 <div class="card formBg">
                     <div class="card-body">
