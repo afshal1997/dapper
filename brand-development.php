@@ -43,7 +43,9 @@
                         <p>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                         </p>
-                        <a class="getStarted" href="javascript:void(0)">Get Started</a>
+                        <?php include 'CommonFile/GetStarted.php'; ?>
+                        <!-- Modal -->
+
                     </div>
                 </div>
             </div>
@@ -55,7 +57,7 @@
                         <p>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                         </p>
-                        <a class="getStarted" href="javascript:void(0)">Get Started</a>
+                        <?php include 'CommonFile/GetStarted.php'; ?>
                     </div>
                 </div>
                 <div class="col-lg-6 mb-4 position-relative">
@@ -83,7 +85,7 @@
                         <p>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                         </p>
-                        <a class="getStarted" href="javascript:void(0)">Get Started</a>
+                        <?php include 'CommonFile/GetStarted.php'; ?>
                     </div>
                 </div>
             </div>
@@ -95,7 +97,7 @@
                         <p>
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                         </p>
-                        <a class="getStarted" href="javascript:void(0)">Get Started</a>
+                        <?php include 'CommonFile/GetStarted.php'; ?>
                     </div>
                 </div>
                 <div class="col-lg-6 mb-4 position-relative">
@@ -116,7 +118,7 @@
             <div class="SortAboutUs">
                 <div class="col-lg-2 m-auto text-center" data-aos="fade-up-left">
                     <img class="w-100 mb-2" src="Assets/Images/logo/mainLogo.png" alt="">
-                    <h6 class="text-muted">SORT ABOUT US</h6>
+                    <h6 class="text-muted">LEARN ABOUT US</h6>
                 </div>
                 <div class="row mt-5" data-aos="flip-up">
                     <div class="col-lg-4 text-end text-light">
@@ -128,9 +130,10 @@
                     <div class="col-lg-7">
                         <div class="dapperIsABrandingFirm">
                             <h6>
-                                <span>Dapper is a branding firm</span> that provides strategy to assist with brand perception, perceived value and high impact visuals, in line with the overall company mission, and we support clients through the development and construction of all brand collateral.
+                                <span>Dapper is a branding firm</span> that provides strategy to assist with brand perception, perceived value and high impact visuals, in line with the overall company mission, 
+                                and we support clients through the development and construction of all brand collateral.
                             </h6>
-                            <p class="text-muted mt-4"><span class="text-light"><b>Micah Lockhart -</b></span> founder of Dapper branding and marketing firm</p>
+                            <p class="text-muted mt-4"><span class="text-light"><b>Micah Lockhart -</b></span> FOUNDER OF DAPPER BRANDING AND MARKETING FIRM</p>
                         </div>
                     </div>
                 </div>
@@ -156,7 +159,7 @@
                             <div class="col-lg-8 m-auto">
                                 <h5 class="card-title text-light"><b>Vision</b></h5>
                                 <p class="text-muted">
-                                    To work in tandem with property management companies that fall in line with our core values and provide,
+                                    Collaborating with property management firms to give an upgraded and data-driven experience that favourably influences performance metrics.
                                 </p>
                             </div>
                         </div>
@@ -218,7 +221,7 @@
             </div>
         </div>
     </section>
-
+    <?php include 'CommonFile/Modal.php'; ?>
 </main>
 
 <?php include 'CommonFile/Footer.php'; ?>

@@ -9,9 +9,9 @@
                     <div class="element element-1">
                         <div class="row">
                             <div class="col-lg-7" data-aos="fade-up">
-                                <h4>Dapper firm</h4>
+                                <h4>Helping Property Management</h4>
                                 <div class="builtMarketing">
-                                    Built Marketing & <span>Branding</span>
+                                    Firms Find Their<span> Mojo</span>
                                 </div>
                                 <p>Dapper is a marketing and branding firm built with sweat, grit, faith and a strong education surrounding...</p>
                                 <div class="row">
@@ -43,10 +43,12 @@
                     <div class="col-lg-5" data-aos="fade-right">
                         <h4>WHY CHOOSE Dapper?</h4>
                         <div class="builtMarketing">
-                            PROFESSIONAL <br> <span>Marketing </span> & <span>Branding</span>
+                            Mission-Driven <br> <span>Branding Agency </span>
                         </div>
                         <p>
-                            Dapper is a small business built with sweat, grit, faith and a strong education surrounding the marketing and branding and subsequently the content strategy necessary to build a successful business. Our mission is to assist small businesses, non-profits and niche organizations in the painstaking growing process that comes with building something from the ground up in an ever changing digital world.
+                            Dapper is a sanctuary where brands are molded, reinterpreted, and elevated. Improve the value of your company by creating brand-aligned employee and customer experiences. 
+                            Our process-driven team evaluates every project with a fresh perspective to produce the most appealing solutions for our partners, whether it's a new brand identity, 
+                            marketing campaign, or interactive strategy. We invite you to collaborate with us and let our team provide the edge you need to further your cause.
                         </p>
                         <div class="row">
                             <div class="col-lg-3"></div>
@@ -57,15 +59,16 @@
                     </div>
                     <div class="col-lg-6" data-aos="fade-left">
                         <div class="row m-auto whyChooseDappercards">
+                        <h6 class="text-light">We are optimistic, enterprising, and restless whole-brain thinkers who value cooperation and are excited by what we can do in partnership with our clients.</h6>
                             <div class="col-lg-6">
                                 <div class="card border-0 bg-transparent">
                                     <div class="card-body">
                                         <div class="card-title">
                                             <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon01.png" alt="Assets/Images/homePage/icons/icon01.png">
-                                            <h6 class="card-title text-light"><b>WORK WITH PASSION</b></h6>
+                                            <h6 class="card-title text-light"><b>Burning With Passion</b></h6>
                                         </div>
                                         <p class="card-text">
-                                            Lorem ipsum dolor sit amet conetuer delgado diam nonummy.
+                                            Our passion for what we do and how we do it empowers us to build brands people believe in.
                                         </p>
                                     </div>
                                 </div>
@@ -75,10 +78,10 @@
                                     <div class="card-body">
                                         <div class="card-title">
                                             <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon02.png" alt="Assets/Images/homePage/icons/icon02.png">
-                                            <h6 class="card-title text-light"><b>Lorem Ipsum</b></h6>
+                                            <h6 class="card-title text-light"><b>Run By Professionals</b></h6>
                                         </div>
                                         <p class="card-text">
-                                            Lorem ipsum dolor sit amet conetuer delgado diam nonummy.
+                                            From the moment you associate with Dapper, you will find nothing but unrivaled professionalism.
                                         </p>
                                     </div>
                                 </div>
@@ -88,10 +91,10 @@
                                     <div class="card-body">
                                         <div class="card-title">
                                             <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon03.png" alt="Assets/Images/homePage/icons/icon03.png">
-                                            <h6 class="card-title text-light"><b>100% PROFESSIONAL</b></h6>
+                                            <h6 class="card-title text-light"><b>Capturing Brand Essence</b></h6>
                                         </div>
                                         <p class="card-text">
-                                            Lorem ipsum dolor sit amet conetuer delgado diam nonummy.
+                                            We don’t make anything up; we just capture the essence that defines your brand.
                                         </p>
                                     </div>
                                 </div>
@@ -101,10 +104,10 @@
                                     <div class="card-body">
                                         <div class="card-title">
                                             <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon04.png" alt="Assets/Images/homePage/icons/icon04.png">
-                                            <h6 class="card-title text-light"><b>FAST RESPONSE</b></h6>
+                                            <h6 class="card-title text-light"><b>Reforge Brand Perception</b></h6>
                                         </div>
                                         <p class="card-text">
-                                            Lorem ipsum dolor sit amet conetuer delgado diam nonummy.
+                                            A well-planned digital strategy that fosters high-value brand loyalty and affinity between you and your customers.
                                         </p>
                                     </div>
                                 </div>
@@ -212,7 +215,7 @@
             <div class="SortAboutUs">
                 <div class="col-lg-2 m-auto text-center" data-aos="fade-up-left">
                     <img class="w-100 mb-2" src="Assets/Images/logo/mainLogo.png" alt="">
-                    <h6 class="text-muted">SORT ABOUT US</h6>
+                    <h6 class="text-muted">LEARN ABOUT US</h6>
                 </div>
                 <div class="row mt-5" data-aos="flip-up">
                     <div class="col-lg-4 text-end text-light">
@@ -224,9 +227,10 @@
                     <div class="col-lg-7">
                         <div class="dapperIsABrandingFirm">
                             <h6>
-                                <span>Dapper is a branding firm</span> that provides strategy to assist with brand perception, perceived value and high impact visuals, in line with the overall company mission, and we support clients through the development and construction of all brand collateral.
+                                <span>Dapper is a branding firm</span> that provides strategy to assist with brand perception, perceived value and high impact visuals, in line with the overall company mission, 
+                                and we support clients through the development and construction of all brand collateral.
                             </h6>
-                            <p class="text-muted mt-4"><span class="text-light"><b>Micah Lockhart -</b></span> founder of Dapper branding and marketing firm</p>
+                            <p class="text-muted mt-4"><span class="text-light"><b>Micah Lockhart -</b></span> FOUNDER OF DAPPER BRANDING AND MARKETING FIRM</p>
                         </div>
                     </div>
                 </div>
@@ -252,7 +256,7 @@
                             <div class="col-lg-8 m-auto">
                                 <h5 class="card-title text-light"><b>Vision</b></h5>
                                 <p class="text-muted">
-                                    To work in tandem with property management companies that fall in line with our core values and provide,
+                                    Collaborating with property management firms to give an upgraded and data-driven experience that favourably influences performance metrics.
                                 </p>
                             </div>
                         </div>

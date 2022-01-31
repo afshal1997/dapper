@@ -56,7 +56,7 @@
                   <p>
                      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                   </p>
-                  <a class="getStarted" href="javascript:void(0)">Get Started</a>
+                  <?php include 'CommonFile/GetStarted.php'; ?>
                </div>
             </div>
          </div>
@@ -68,7 +68,7 @@
                   <p>
                      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                   </p>
-                  <a class="getStarted" href="javascript:void(0)">Get Started</a>
+                  <?php include 'CommonFile/GetStarted.php'; ?>
                </div>
             </div>
             <div class="col-lg-6 my-4 position-relative">
@@ -120,7 +120,7 @@
                   <p>
                      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                   </p>
-                  <a class="getStarted" href="javascript:void(0)">Get Started</a>
+                  <?php include 'CommonFile/GetStarted.php'; ?>
                </div>
             </div>
          </div>
@@ -130,70 +130,71 @@
 
 
    <section id="section04" class="section04">
-      <div class="container">
-         <div class="SortAboutUs">
-            <div class="col-lg-2 m-auto text-center" data-aos="fade-up-left">
-               <img class="w-100 mb-2" src="Assets/Images/logo/mainLogo.png" alt="">
-               <h6 class="text-muted">SORT ABOUT US</h6>
+        <div class="container">
+            <div class="SortAboutUs">
+                <div class="col-lg-2 m-auto text-center" data-aos="fade-up-left">
+                    <img class="w-100 mb-2" src="Assets/Images/logo/mainLogo.png" alt="">
+                    <h6 class="text-muted">LEARN ABOUT US</h6>
+                </div>
+                <div class="row mt-5" data-aos="flip-up">
+                    <div class="col-lg-4 text-end text-light">
+                        <div class="dapperIsABrandingFirm">
+                            <h2>What We Do?</h2>
+                            <h2><b>Marketing & Branding</b></h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="dapperIsABrandingFirm">
+                            <h6>
+                                <span>Dapper is a branding firm</span> that provides strategy to assist with brand perception, perceived value and high impact visuals, in line with the overall company mission, 
+                                and we support clients through the development and construction of all brand collateral.
+                            </h6>
+                            <p class="text-muted mt-4"><span class="text-light"><b>Micah Lockhart -</b></span> FOUNDER OF DAPPER BRANDING AND MARKETING FIRM</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-lg-6" data-aos="flip-right">
+                        <div class="row">
+                            <div class="col-lg-4 m-auto">
+                                <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon10.png" alt="Assets/Images/homePage/icons/icon10.png">
+                            </div>
+                            <div class="col-lg-8 m-auto">
+                                <h5 class="card-title text-light"><b>Mission</b></h5>
+                                <p class="text-muted">
+                                    To develop brand strategy and brand collateral, which positively impacts revenue and perceived value.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6" data-aos="flip-left">
+                        <div class="row">
+                            <div class="col-lg-4 m-auto">
+                                <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon11.png" alt="Assets/Images/homePage/icons/icon11.png">
+                            </div>
+                            <div class="col-lg-8 m-auto">
+                                <h5 class="card-title text-light"><b>Vision</b></h5>
+                                <p class="text-muted">
+                                    Collaborating with property management firms to give an upgraded and data-driven experience that favourably influences performance metrics.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-lg-5 m-auto">
+                        <hr class="bg-light">
+                    </div>
+                    <div class="col-lg-2 m-auto">
+                        <h2 class="exploreMore">Explore More</h2>
+                    </div>
+                    <div class="col-lg-5 m-auto">
+                        <hr class="bg-light">
+                    </div>
+                </div>
             </div>
-            <div class="row mt-5" data-aos="flip-up">
-               <div class="col-lg-4 text-end text-light">
-                  <div class="dapperIsABrandingFirm">
-                     <h2>What We Do?</h2>
-                     <h2><b>Marketing & Branding</b></h2>
-                  </div>
-               </div>
-               <div class="col-lg-7">
-                  <div class="dapperIsABrandingFirm">
-                     <h6>
-                        <span>Dapper is a branding firm</span> that provides strategy to assist with brand perception, perceived value and high impact visuals, in line with the overall company mission, and we support clients through the development and construction of all brand collateral.
-                     </h6>
-                     <p class="text-muted mt-4"><span class="text-light"><b>Micah Lockhart -</b></span> founder of Dapper branding and marketing firm</p>
-                  </div>
-               </div>
-            </div>
-            <div class="row mt-5">
-               <div class="col-lg-6" data-aos="flip-right">
-                  <div class="row">
-                     <div class="col-lg-4 m-auto">
-                        <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon10.png" alt="Assets/Images/homePage/icons/icon10.png">
-                     </div>
-                     <div class="col-lg-8 m-auto">
-                        <h5 class="card-title text-light"><b>Mission</b></h5>
-                        <p class="text-muted">
-                           To develop brand strategy and brand collateral, which positively impacts revenue and perceived value.
-                        </p>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-6" data-aos="flip-left">
-                  <div class="row">
-                     <div class="col-lg-4 m-auto">
-                        <img class="whyChooseDapperIcons" src="Assets/Images/homePage/icons/icon11.png" alt="Assets/Images/homePage/icons/icon11.png">
-                     </div>
-                     <div class="col-lg-8 m-auto">
-                        <h5 class="card-title text-light"><b>Vision</b></h5>
-                        <p class="text-muted">
-                           To work in tandem with property management companies that fall in line with our core values and provide,
-                        </p>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="row mt-5">
-               <div class="col-lg-5 m-auto">
-                  <hr class="bg-light">
-               </div>
-               <div class="col-lg-2 m-auto">
-                  <h2 class="exploreMore">Explore More</h2>
-               </div>
-               <div class="col-lg-5 m-auto">
-                  <hr class="bg-light">
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
+        </div>
+    </section>
 
    <section id="section05" class="section05">
       <div class="col-lg-3 text-center m-auto">
@@ -235,6 +236,8 @@
             </div>
          </div>
       </div>
+      <?php include 'CommonFile/Modal.php'; ?>
+
    </section>
 </main>
 

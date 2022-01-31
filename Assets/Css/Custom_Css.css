@@ -173,7 +173,7 @@ a.navbar-brand img {
   text-transform: uppercase;
   color: #fff;
   font-weight: 700;
-  font-size: 3.3rem;
+  font-size: 3rem;
   line-height: 1;
   margin-bottom: 10px;
 }
@@ -1002,6 +1002,7 @@ h2.exploreMore {
   align-items: center;
   margin: auto;
   border: 2px solid #a07604;
+  z-index: 1;
 }
 .count h3 {
   margin-bottom: 0;
@@ -1015,5 +1016,6 @@ h2.exploreMore {
 section.socialMediaGraphics img {
   border: 2px solid #a07604;
 }
+
 
 /* End */

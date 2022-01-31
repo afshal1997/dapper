@@ -92,17 +92,17 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .accordion-item {
-    background-color: rgba(0,0,0,0.3) !important;
+    background-color: rgba(0, 0, 0, 0.3) !important;
     border-bottom: 1px solid rgb(59, 59, 59) !important;
     color: #fff !important;
     font-weight: 500 !important;
 }
 
-.accordion-button::after{
+.accordion-button::after {
     filter: invert(1);
 }
 
-.accordion-button{
+.accordion-button {
     font-weight: 600;
 }
 
@@ -262,7 +262,24 @@ body::-webkit-scrollbar-thumb:hover {
         font: bold 3.5em "Montserrat", sans-serif;
     }
 }
-
+.modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: transparent;
+    background-clip: padding-box;
+    border-radius: 0.3rem;
+    border: 0;
+    outline: 0;
+}
+.btn-close {
+    filter: invert(1);
+}
+.btn-close {
+    float: right;
+}
 @media screen and (max-width: 500px) {
     /* Prelaoder */
     /* Spinner cargando */
@@ -277,6 +294,7 @@ body::-webkit-scrollbar-thumb:hover {
     }
 }
 
-.dropdown-item.active, .dropdown-item:active{
+.dropdown-item.active,
+.dropdown-item:active {
     background-color: #a07604 !important;
 }

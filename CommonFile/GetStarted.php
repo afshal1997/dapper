@@ -1,0 +1,1 @@
+<a class="getStarted" href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Get Started</a>

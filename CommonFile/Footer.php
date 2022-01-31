@@ -54,10 +54,10 @@
                 <div class="footerLinks">
                     <ul>
                         <li>
-                            <a href="javascript:void(0)">Contact us</a>
+                            <a href="contact-us.php">Contact us</a>
                         </li>
                         <li>
-                            <a href="javascript:void(0)">About us</a>
+                            <a href="about-us.php">About us</a>
                         </li>
                         <li>
                             <a href="javascript:void(0)">Site map</a>

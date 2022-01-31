@@ -28,8 +28,8 @@
           <ul>
             <li style="--animation-order: 1;"><a href="index.php">Home</a></li>
             <li style="--animation-order: 2;"><a href="about-us.php">About Us</a></li>
-            <li style="--animation-order: 3;"><a href="javascript:void(0)">Services</a></li>
-            <li style="--animation-order: 4;"><a href="javascript:void(0)">Client Briefs</a></li>
+            <li style="--animation-order: 3;"><a href="javascript:void(0)">Privacy policy</a></li>
+            <li style="--animation-order: 4;"><a href="javascript:void(0)">Site map</a></li>
             <li style="--animation-order: 5;"><a href="contact-us.php">Contact Us</a></li>
           </ul>
           <div class="close">

@@ -1,61 +1,10 @@
-<?php include 'CommonFile/Header.php'; ?>
-
-<main>
-    <section class="contactUsMainBanner" id="contactUsMainBanner">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 mt-5" data-aos="fade-up">
-                    <h4>Contact Us</h4>
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.php" class="text-warning">Home</a></li>
-                            <li class="breadcrumb-item active"><b>Contact Us</b></li>
-                        </ol>
-                    </nav>
-                    <div class="builtMarketing">
-                        <h2> WE’RE EAGER TO HELP YOU WITH YOUR <span>QUERIES</span></h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="aboutUsGoDownBtn">
-            <div class="row">
-                <div class="col-lg-4 m-auto">
-                </div>
-                <div class="col-lg-8 m-auto">
-                    <div class="card p-4">
-                        <div class="row">
-                            <div class="col-lg-6 m-auto">
-                                <h4><b>Contact information</b></h4>
-                                <p>Whether you're looking for a custom web design or need suggestions for logo ideas, <br> feel free to contact us.</p>
-                            </div>
-                            <div class="col-lg-6 m-auto">
-                                <div class="contactInformation">
-                                    <ul>
-                                        <li class="position-relative">
-                                            <b>Address :</b> <a href="javascript:void(0)">Lorem Ipsum is simply dummy text</a>
-                                        </li>
-                                        <li class="position-relative">
-                                            <b>Email :</b> <a href="mailto:BrandedByDapper@gmail.com">BrandedByDapper@gmail.com</a>
-                                        </li>
-                                        <li class="position-relative mb-0">
-                                            <b>Phone :</b> <a href="tel:+1234 5678910">+1234 5678910</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="contactUsForm">
-        <div class="container">
-            <div class="col-lg-6 m-auto">
+<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body">
                 <div class="card formBg">
                     <div class="card-body">
+                        <button type="button" class="btn-close m-auto ms-0 text-info" data-bs-dismiss="modal" aria-label="Close"></button>
                         <form action="" class="form p-3">
                             <div class="row">
                                 <div class="col-lg-6">
@@ -103,8 +52,5 @@
                 </div>
             </div>
         </div>
-    </section>
-
-</main>
-
-<?php include 'CommonFile/Footer.php'; ?>
+    </div>
+</div>
